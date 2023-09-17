@@ -1,5 +1,5 @@
 import React from "react";
-import orlean from "../assets/orlean.jpg";
+import book from "../assets/travel demo.PNG";
 import hero from "../assets/hero section (2).png";
 import ecommerce from "../assets/ecommerce website (2).PNG";
 import devj from "../assets/devjobs.PNG";
@@ -9,7 +9,11 @@ const Portfolio = () => {
   const portfolio = [
     {
       id: 1,
-      src: orlean,
+      src: book,
+      demo: "https://ados1.github.io/travelhandbook/",
+      code: "https://github.com/Ados1/travelhandbook.git",
+      detail:
+        "A Travel HandBook to know important places near you, built with HTML5, CSS3, REACT JS, GOOGLE API & RAPID API. ",
     },
     {
       id: 2,
