@@ -4,28 +4,22 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full bg-gradient-to-b from-gray-800 to-black text-white pb-20 "
     >
       <div className="max-w-screen-lg p-4 mx-auto flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-600">
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          Welcome to my portfolio website! I'm a former project manager in the
-          construction industry who has successfully made the transition into
-          the exciting world of technology. With a solid foundation in project
-          management, I have expanded my skill set to become a versatile
-          full-stack web developer, proficient in front-end technologies like
-          HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS, and MySQL. My journey
-          into the tech industry didn't stop there—I have also delved into cloud
-          technologies, particularly AWS, and even obtained the Cloud
-          Practitioner certificate. This has allowed me to effectively leverage
-          cloud services and infrastructure to create scalable and robust web
-          applications. Additionally, I have honed my backend programming skills
-          with Python, enabling me to handle server-side development and
-          implement powerful functionalities.
+        <p className="text-xl mt-5">
+          Welcome to my portfolio website! A Front-End Developer with under a
+          year of hands-on experience in HTML, CSS, JavaScript, React, and
+          Node.js. applied these skills to create a travel pocket book website
+          that seamlessly integrates with Google Maps API, resulting in a 5%
+          reduction in average search time of location-based information.
+          Deployed this project on cloud platform AWS, for efficient web hosting
+          to optimize performance by 8%.
         </p>
 
         <br />

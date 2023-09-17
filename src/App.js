@@ -7,6 +7,9 @@ import SocialLinks from "./components/SocialLinks.jsx";
 import About from "./components/About.jsx";
 
 import Portfolio from "./components/Portfolio.jsx";
+import Experience from "./components/Experience.jsx";
+
+import Contact from "./Contact.jsx";
 
 function App() {
   return (
@@ -15,6 +18,8 @@ function App() {
       <Home />
       <About />
       <Portfolio />
+      <Experience />
+      <Contact />
       <SocialLinks />
     </div>
   );
