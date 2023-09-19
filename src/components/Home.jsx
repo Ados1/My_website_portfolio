@@ -1,6 +1,6 @@
 import React from "react";
 
-import Gru from "../assets/Gru.jpg";
+import resume from "../assets/Resume pic.jpg";
 
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 
@@ -42,9 +42,9 @@ const Home = () => {
 
         <div>
           <img
-            src={Gru}
+            src={resume}
             alt="my profile"
-            className="  rounded-2xl mx-auto w-2/3 md:w-full "
+            className="  rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer  max-w-md  blur-sm hover:blur-none "
           />
         </div>
       </div>
