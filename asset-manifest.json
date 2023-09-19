@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/My_website_portfolio/static/css/main.5e83bf29.css",
-    "main.js": "/My_website_portfolio/static/js/main.833ce953.js",
+    "main.css": "/My_website_portfolio/static/css/main.98295a5b.css",
+    "main.js": "/My_website_portfolio/static/js/main.9a07ecb5.js",
     "static/media/hero section (2).png": "/My_website_portfolio/static/media/hero section (2).bb765a1bb085db57e70d.png",
     "static/media/ecommerce website (2).PNG": "/My_website_portfolio/static/media/ecommerce website (2).d0c53c74f15954b4d792.PNG",
     "static/media/travel demo.PNG": "/My_website_portfolio/static/media/travel demo.24fe78ee8fe1edf664fa.PNG",
     "static/media/Python-logo-notext.svg.png": "/My_website_portfolio/static/media/Python-logo-notext.svg.82efb64f8698a267f8bf.png",
+    "static/media/Resume pic.jpg": "/My_website_portfolio/static/media/Resume pic.b1344449cc01dcbeab85.jpg",
     "static/media/js-icon-logo-icon-react-icon-react-js-icon-turquoise-teal-aqua-symbol-circle-png-clipart.jpg": "/My_website_portfolio/static/media/js-icon-logo-icon-react-icon-react-js-icon-turquoise-teal-aqua-symbol-circle-png-clipart.5320aeb79f9894e1a148.jpg",
     "static/media/devjobs.PNG": "/My_website_portfolio/static/media/devjobs.9b03c9ab1113fbdcbecf.PNG",
     "static/media/logo-javascript-logo-png-transparent.png": "/My_website_portfolio/static/media/logo-javascript-logo-png-transparent.dd49336437d9194e4d2d.png",
@@ -14,15 +15,14 @@
     "static/media/coming-soon-text-grunge-background_91128-1643.avif": "/My_website_portfolio/static/media/coming-soon-text-grunge-background_91128-1643.363a97b6299a1b6823a6.avif",
     "static/media/aws.png": "/My_website_portfolio/static/media/aws.74eeea748c29b1cefdca.png",
     "static/media/Html.png": "/My_website_portfolio/static/media/Html.df69503917a05a968e58.png",
-    "static/media/Gru.jpg": "/My_website_portfolio/static/media/Gru.a4790865bba5ce5a4fd5.jpg",
     "static/media/css33.png": "/My_website_portfolio/static/media/css33.603bcb730b4f65fab87c.png",
     "static/media/SQL.png": "/My_website_portfolio/static/media/SQL.ef228a3c109365c5e7b7.png",
     "index.html": "/My_website_portfolio/index.html",
-    "main.5e83bf29.css.map": "/My_website_portfolio/static/css/main.5e83bf29.css.map",
-    "main.833ce953.js.map": "/My_website_portfolio/static/js/main.833ce953.js.map"
+    "main.98295a5b.css.map": "/My_website_portfolio/static/css/main.98295a5b.css.map",
+    "main.9a07ecb5.js.map": "/My_website_portfolio/static/js/main.9a07ecb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e83bf29.css",
-    "static/js/main.833ce953.js"
+    "static/css/main.98295a5b.css",
+    "static/js/main.9a07ecb5.js"
   ]
 }
